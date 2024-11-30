@@ -1,0 +1,29 @@
+body {
+  background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+  color: white;
+}
+.text-head{
+  color: #17A2B8;
+}
+.card {
+  background-color: #24353F;
+  border: none;
+  border-radius: 10px;
+}
+
+input::placeholder {
+  color: #17A2B8;
+}
+.btn-submit{
+  background-color: #17A2B8;
+}
+.btn-submit:hover{
+  background-color: #1692a5;
+}
+.toggle-link{
+  color: #17A2B8;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+}
